@@ -8,5 +8,6 @@ public class Test {
         s= sc.nextLine();
         System.out.println(s);
         System.out.println( "Hello GIT ");
+        System.out.println("update from dev 1");
     }
 }
