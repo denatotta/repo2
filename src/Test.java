@@ -9,5 +9,6 @@ public class Test {
         System.out.println(s);
         System.out.println( "Hello GIT ");
         System.out.println("new update from dev 1");
+        System.out.println("new update from dev2");
     }
 }
