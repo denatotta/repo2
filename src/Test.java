@@ -8,7 +8,5 @@ public class Test {
         s= sc.nextLine();
         System.out.println(s);
         System.out.println( "Hello GIT ");
-        System.out.println("update1.");
-        System.out.println("Update from developer1");
     }
 }
